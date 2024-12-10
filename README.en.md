@@ -1,4 +1,4 @@
-# petHis-fontend-admin
+# PetVue
 
 ## Description
 一个基于SpringBoot+VUE的宠物医院后台管理系统。前后端分离， 本仓库是基于VUE的前端部分。
