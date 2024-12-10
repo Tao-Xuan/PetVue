@@ -8,7 +8,7 @@
            router
   >
     <div style="height: 60px; line-height: 60px; text-align: center">
-      <img src="../assets/logo1.png" alt="" style="width: 20px; position: relative; top: 5px;">
+      <img src="../assets/logo/logo1.png" alt="" style="width: 20px; position: relative; top: 5px;">
       <b style="color: white; margin-left: 5px" v-show="logoTextShow">宠物医院后台管理系统</b>
     </div>
     <div v-for="item in menus" :key="item.id">

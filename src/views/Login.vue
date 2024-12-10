@@ -147,7 +147,10 @@ export default {
 <style>
 .wrapper {
   height: 100vh;
-  background-image: linear-gradient(to bottom right, #4169E1 , 	#87CEFA);
+  background-image: url("../assets/login/loginBg.png");
+  background-size: cover; /* 让图片覆盖整个容器 */
+  background-repeat: no-repeat; /* 防止图片重复 */
+  background-position: center; /* 居中显示图片 */
   overflow: hidden;
 }
 </style>
