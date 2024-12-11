@@ -3,7 +3,7 @@
     <!-- 顶部导航栏 -->
     <el-header class="header fixed-header" style="height:64px;">
       <div class="logo">
-        <img src="../assets/logo/logo.png" alt="Logo" />
+        <img src="../../assets/logo/logo.png" alt="Logo" />
       </div>
       <el-menu
           class="menu"
@@ -54,7 +54,7 @@
         <ul class="clearfix">
           <li class="transition">
             <div class="item b-shadow">
-              <img src="../assets/home/home_about_ico1.png" alt="180家分院" />
+              <img src="../../assets/home/home_about_ico1.png" alt="180家分院" />
               <span class="num">
                 180<em>+</em>
               </span>
@@ -64,7 +64,7 @@
           </li>
           <li class="transition">
             <div class="item b-shadow">
-              <img src="../assets/home/home_about_ico2.png" alt="800名医生" />
+              <img src="../../assets/home/home_about_ico2.png" alt="800名医生" />
               <span>
                 799
               </span>
@@ -74,7 +74,7 @@
           </li>
           <li class="transition">
             <div class="item b-shadow">
-              <img src="../assets/home/home_about_ico3.png"
+              <img src="../../assets/home/home_about_ico3.png"
                    alt="180万https://beian.miit.gov.cn/" />
               <span class="num">
                 180W<em>+</em>
@@ -85,7 +85,7 @@
           </li>
           <li class="transition">
             <div class="item b-shadow">
-              <img src="../assets/home/home_about_ico4.png" alt="30000+客户感谢留言" />
+              <img src="../../assets/home/home_about_ico4.png" alt="30000+客户感谢留言" />
               <span class="num">
                 30000<em>+</em>
               </span>
@@ -95,7 +95,7 @@
           </li>
           <li class="transition">
             <div class="item b-shadow">
-              <img src="../assets/home/home_about_ico5.png" alt="400万+康复案例" />
+              <img src="../../assets/home/home_about_ico5.png" alt="400万+康复案例" />
               <span class="num">
                 400W<em>+</em>
               </span>
@@ -281,7 +281,7 @@ export default {
 .banner {
   background-position: center center;
   background-size: cover;
-  background-image: url("../assets/home/home-banner.png");
+  background-image: url("../../assets/home/home-banner.png");
   height: calc(100vh - 64px);
   text-align: center;
   background-color: #e3f2fd;
@@ -322,7 +322,7 @@ export default {
 .about {
   background-position: center center;
   background-size: cover;
-  background-image: url("../assets/home/home_about_bg.png");
+  background-image: url("../../assets/home/home_about_bg.png");
   height: calc(100vh - 64px);
   background-color: #ffffff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -402,7 +402,7 @@ em {
 .news {
   background-position: center center;
   background-size: cover;
-  background-image: url("../assets/home/home-news.png");
+  background-image: url("../../assets/home/home-news.png");
   height: calc(100vh - 64px);
   background-color: #ffffff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -412,7 +412,7 @@ em {
 .services {
   background-position: center center;
   background-size: cover;
-  background-image: url("../assets/home/home-services.png");
+  background-image: url("../../assets/home/home-services.png");
   height: calc(100vh - 64px);
   background-color: #ffffff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
